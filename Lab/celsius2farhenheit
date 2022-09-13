@@ -1,0 +1,7 @@
+# Tendencias e Innovacion en Tecnologia Agricola (TEA)
+# Autor : francis.rios@est.zamorano.edu
+# Fecha : 2022.09.09
+# Editado : 2022.09.09
+temp=input("Cual es su temperatura en grados Celsius?")
+total= float(temp)*9/5+32
+print(total)
